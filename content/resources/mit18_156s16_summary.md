@@ -5,8 +5,6 @@ description: This resource contains information regarding lecture summary, cours
 file: /courses/18-156-differential-analysis-ii-partial-differential-equations-and-fourier-analysis-spring-2016/d4ab667db0f140573717b57b8805a079_MIT18_156S16_summary.pdf
 file_size: 310814
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

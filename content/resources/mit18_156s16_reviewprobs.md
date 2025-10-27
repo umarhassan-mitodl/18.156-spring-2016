@@ -6,8 +6,6 @@ description: 'This resource contains information regarding differential analysis
 file: /courses/18-156-differential-analysis-ii-partial-differential-equations-and-fourier-analysis-spring-2016/e96bfd70fcffcf193aaa6b7e43b8da4f_MIT18_156S16_reviewprobs.pdf
 file_size: 278182
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
